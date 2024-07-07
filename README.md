@@ -1,4 +1,4 @@
 # java-filmorate
 Template repository for Filmorate project.
 ## sdfglh
-![Alt-текст]([https://github.com/alexeyakachuk/Probnik/blob/main/Untitled.pdf](https://github.com/alexeyakachuk/Probnik/blob/main/Untitled.png)
+![Alt-текст](https://raw.githubusercontent.com/alexeyakachuk/Probnik/main/Untitled.png
